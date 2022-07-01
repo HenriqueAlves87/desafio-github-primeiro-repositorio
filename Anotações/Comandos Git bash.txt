@@ -1,0 +1,4 @@
+
+Para ver status da pasta:
+git status
+
