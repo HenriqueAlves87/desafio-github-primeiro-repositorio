@@ -1,4 +1,25 @@
+Alguns comandos do Git Bash
+
+Atalho para limpar a tela:
+CTRL + l
+
+Listar arquivos:
+ls
+
+Para mudar de pasta:
+cd "nome da pasta"
+
+Para mudar para pasta acima:
+cd ..
 
 Para ver status da pasta:
 git status
 
+Para adicionar arquivos no commit (mudar para staged):
+git add .
+
+Para "commitar" arquivos no GitHub
+git commit -m "mensagem que quiser da commit"
+
+Depois de commit tem dar um push os arquivos para o Git Hub
+git push origin main
