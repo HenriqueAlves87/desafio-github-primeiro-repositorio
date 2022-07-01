@@ -18,6 +18,9 @@ git status
 Para adicionar arquivos no commit (mudar para staged):
 git add .
 
+Para confirmar todos os arquivos rastreados:
+git commit -A
+
 Para "commitar" arquivos no GitHub
 git commit -m "mensagem que quiser da commit"
 
