@@ -26,3 +26,14 @@ git commit -m "mensagem que quiser da commit"
 
 Depois de commit tem dar um push os arquivos para o Git Hub
 git push origin main
+
+Comandos:
+obs:. no passo 5 depois do nome origin vc vai colar o endereço do seu repositório no github, um bom exemplo logo a baixo.
+
+1 - git init
+2 - git branch -m main
+3 - git add .
+4 - git commit -m "commit final do projeto"
+5 - git remote add origin "endereço do repositório no github"
+6 - git push -u origin main
+7 - Enter
