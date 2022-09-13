@@ -18,6 +18,8 @@ git status
 Para adicionar arquivos no commit (mudar para staged):
 git add .
 
+git add "nome do arquivo com espaços em branco "
+
 Para confirmar todos os arquivos rastreados:
 git commit -A
 
